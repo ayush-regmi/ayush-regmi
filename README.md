@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Regmi.</h1>
 <h3 align="center">A passionate Computer Engineering Student at Kathmandu University.</h3>
 
-- 🌱 I’m currently learning **MongoDB, ReactJS, Node.js, Flutter**
+- 🌱 I’m currently learning **MERN Stack, Cross Platform Development and Microservices Backend Architecture**
 
 - 💬 Ask me about **Node.js, MongoDB**
 
