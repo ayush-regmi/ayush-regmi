@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Cross Platform Development and Microservices Backend Architecture**
 
-- 💬 Ask me about **Node.js, MongoDB**
+- 💬 Ask me about **Node.js, MongoDB, ReactJS, JavaScript, Microservices Architecture**
 
 - 📫 How to reach me **ayushregmi736@gmail.com**
 
