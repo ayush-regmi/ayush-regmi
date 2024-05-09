@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Regmi.</h1>
-<h3 align="center">A passionate Computer Engineering Student at Kathmandu University.</h3>
+<h3 align="center">A passionate Computer Science Student.</h3>
 
 - 🌱 I’m currently learning **MERN Stack, Cross Platform Development and Microservices Backend Architecture**
 
