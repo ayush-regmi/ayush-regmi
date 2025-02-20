@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Regmi.</h1>
-<h3 align="center">A passionate Computer Science Student.</h3>
+<h3 align="center">Computer Science Student.</h3>
 
-- 🌱 I’m currently learning **MERN Stack, Cross Platform Development and Microservices Backend Architecture**
+- 🛠️ I break things to learn how they work… then I (usually) fix them.
+  
+- 🌱 I’m currently learning **MERN Stack, Writing Effective Code, Algorithms**
 
-- 💬 Ask me about **Node.js, MongoDB, ReactJS, JavaScript, Microservices Architecture**
+- 💬 Ask me about **Node.js, MongoDB, JavaScript, Java, C++**
 
 - 📫 How to reach me **ayushregmi736@gmail.com**
 
